@@ -1,1 +1,1 @@
-# Coursera-Machine-Learning---Andrew-Ng
+# Coursera-ML-Andrew-Ng
